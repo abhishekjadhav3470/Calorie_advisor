@@ -4,6 +4,6 @@
 
 ## Output
 
-![Logo](C:\Users\abhis\Downloads\Calorie_advisor\NO.png)
+![Logo](images\NO.png)
 
-![Logo](C:\Users\abhis\Downloads\Calorie_advisor\yes.png)
+![Logo](images\yes.png)
